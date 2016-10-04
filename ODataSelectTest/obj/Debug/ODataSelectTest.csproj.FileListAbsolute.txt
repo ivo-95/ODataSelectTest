@@ -1,0 +1,168 @@
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ApplicationInsights.config
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\csc.exe
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\vbc.exe
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\VBCSCompiler.exe
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ODataSelectTest.dll.config
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ODataSelectTest.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ODataSelectTest.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.Web.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.ApplicationInsights.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.Extensions.DependencyInjection.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.OData.Core.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.OData.Edm.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.Spatial.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Newtonsoft.Json.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\System.Net.Http.Formatting.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\System.Web.Http.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\System.Web.Http.WebHost.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\System.Web.OData.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.Web.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.ApplicationInsights.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.Extensions.DependencyInjection.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.OData.Core.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.OData.Edm.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Microsoft.Spatial.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\System.Web.OData.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\Newtonsoft.Json.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\System.Net.Http.Formatting.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\System.Web.Http.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\System.Web.Http.WebHost.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\de\Microsoft.OData.Core.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\es\Microsoft.OData.Core.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\fr\Microsoft.OData.Core.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\it\Microsoft.OData.Core.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ja\Microsoft.OData.Core.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ko\Microsoft.OData.Core.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ru\Microsoft.OData.Core.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\de\Microsoft.OData.Edm.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\es\Microsoft.OData.Edm.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\fr\Microsoft.OData.Edm.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\it\Microsoft.OData.Edm.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ja\Microsoft.OData.Edm.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ko\Microsoft.OData.Edm.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ru\Microsoft.OData.Edm.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\de\Microsoft.Spatial.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\es\Microsoft.Spatial.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\fr\Microsoft.Spatial.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\it\Microsoft.Spatial.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ja\Microsoft.Spatial.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ko\Microsoft.Spatial.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\ru\Microsoft.Spatial.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\zh-Hans\Microsoft.Spatial.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\zh-Hant\Microsoft.Spatial.resources.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\obj\Debug\ODataSelectTest.csprojResolveAssemblyReference.cache
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\obj\Debug\ODataSelectTest.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\obj\Debug\ODataSelectTest.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\EntityFramework.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\EntityFramework.SqlServer.dll
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\EntityFramework.xml
+c:\users\ivo\documents\visual studio 2015\Projects\ODataSelectTest\ODataSelectTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ApplicationInsights.config
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\csc.exe
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\vbc.exe
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ODataSelectTest.dll.config
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ODataSelectTest.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ODataSelectTest.pdb
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\EntityFramework.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.Web.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.OData.Core.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.OData.Edm.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.Spatial.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Newtonsoft.Json.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\System.Web.Http.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\System.Web.OData.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\EntityFramework.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.Web.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.OData.Core.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.OData.Edm.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Microsoft.Spatial.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\System.Web.OData.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\Newtonsoft.Json.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\System.Web.Http.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\obj\Debug\ODataSelectTest.csprojResolveAssemblyReference.cache
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\obj\Debug\ODataSelectTest.dll
+C:\Users\Ivo.Karaneshev\Desktop\ODataSelectTest\ODataSelectTest\obj\Debug\ODataSelectTest.pdb
